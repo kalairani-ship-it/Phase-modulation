@@ -62,6 +62,9 @@ ePM=Ac.*cos((2*3.14*fc*t)+(Kp*cos(2*3.14*fm*t)));
 subplot(4,1,4);
 plot(t,ePM);
 
+# OUTPUT WAVEFORM
+
+
 # TABULATION
 <img width="1030" height="1600" alt="WhatsApp Image 2026-09-07 at 1 44 37 PM" src="https://github.com/user-attachments/assets/2279e52f-2327-409e-9ee4-bbb067fd467c" />
 
