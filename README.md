@@ -63,7 +63,7 @@ subplot(4,1,4);
 plot(t,ePM);
 
 # OUTPUT WAVEFORM
-
+<img width="1600" height="853" alt="WhatsApp Image 2026-09-24 at 11 20 05 AM" src="https://github.com/user-attachments/assets/7f639888-2ccd-4639-b1bf-d66340f0250d" />
 
 # TABULATION
 <img width="1030" height="1600" alt="WhatsApp Image 2026-09-07 at 1 44 37 PM" src="https://github.com/user-attachments/assets/2279e52f-2327-409e-9ee4-bbb067fd467c" />
